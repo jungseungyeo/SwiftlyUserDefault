@@ -55,7 +55,7 @@ extension SwiftlyUserDefault {
 How to use
 
 ```Swift
-import SwiftlyIndicator
+import SwiftlyUserDefault
 
 override func viewDidLoad() {
     super.viewDidLoad()
