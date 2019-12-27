@@ -81,4 +81,4 @@ override func viewDidLoad() {
 
 ## License
 
-SwiftlyIndicator is licensed under the MIT license. Check the [LICENSE](/LICENSE) file for details.
+SwiftlyUserDefault is licensed under the MIT license. Check the [LICENSE](/LICENSE) file for details.
